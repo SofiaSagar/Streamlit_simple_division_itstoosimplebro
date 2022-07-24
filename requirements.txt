@@ -342,7 +342,7 @@ SQLAlchemy==1.4.39
 sqlparse==0.4.2
 srsly==2.4.3
 statsmodels==0.10.2
-streamlit==1.11.0
+streamlit==1.8.1
 sympy==1.7.1
 tables==3.7.0
 tabulate==0.8.10
